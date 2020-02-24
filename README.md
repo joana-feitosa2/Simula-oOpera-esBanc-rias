@@ -25,7 +25,7 @@ class Cliente:
         print("Valor atualizado do saldo é:", self.deposito - self.saque)
 
 
-#**********************************
+#**********************************#
 
 from cliente import Cliente
 from random import *
